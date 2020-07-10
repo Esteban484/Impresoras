@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="iconAbrir">Recursos/anadir.png</file>
+        <file alias="Icono">Recursos/impresion.png</file>
+        <file alias="iconoInf">Recursos/informacion.png</file>
+        <file alias="salir">Recursos/salida.png</file>
+        <file alias="guardar">Recursos/salvar.png</file>
+    </qresource>
+</RCC>
